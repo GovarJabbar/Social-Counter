@@ -1,0 +1,10 @@
+{
+    "name": "social-counter",
+    "license": "MIT",
+    "devDependencies": {
+        "minimist": "^1.2.5",
+        "puppeteer": "^12.0.1",
+        "url-metadata": "^2.5.0",
+        "nth-check": ">=2.0.1"
+    }
+}
