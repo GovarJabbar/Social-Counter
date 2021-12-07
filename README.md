@@ -37,4 +37,4 @@ npm install
 ```
 
 ### Requirements
-* Node.js# Social-Counter
+* Node.js
